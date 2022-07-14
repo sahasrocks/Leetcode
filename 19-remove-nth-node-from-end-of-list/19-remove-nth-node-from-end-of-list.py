@@ -10,10 +10,9 @@ class Solution:
         while cur:
             a.append(cur.val)
             cur=cur.next
-        print(a)
-        a.pop(-n)
-        print(a)
         
+        a.pop(-n)
+              
         
         curr= dummy = ListNode(0)
         for e in a:

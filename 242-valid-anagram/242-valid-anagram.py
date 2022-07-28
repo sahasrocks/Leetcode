@@ -1,5 +1,6 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        return Counter(s)==Counter(t)
         l1=list(s)
         l2=list(t)
         l1.sort()

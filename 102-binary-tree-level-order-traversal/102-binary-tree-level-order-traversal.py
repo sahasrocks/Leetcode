@@ -6,6 +6,18 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root):
+        if not root: return []
+        q, ans = deque([root]), []
+        while len(q):
+            n, curLevel = len(q), []
+            for i in range(n):
+                cur = q.popleft()
+                if cur.left: q.append(cur.left)
+                if cur.right: q.append(cur.right)
+                curLevel.append(cur.val)
+            ans.append(curLevel)
+        return ans
+        
         
         # ans, level = [], [root]
         # while root and level:
@@ -13,18 +25,19 @@ class Solution:
         #     LRpair = [(node.left, node.right) for node in level]
         #     level = [leaf for LR in LRpair for leaf in LR if leaf]
         # return ans
-        a=[]
-        q=collections.deque()
-        q.append(root)
-        while q:
-            qlen= len(q)
-            level=[]
-            for i in range(qlen):
-                node=q.popleft()
-                if node:
-                    level.append(node.val)
-                    q.append(node.left)
-                    q.append(node.right)
-            if level:
-                a.append(level)
-        return a    
+        # a=[]
+        # q=collections.deque()
+        # q.append(root)
+        # while q:
+        #     qlen= len(q)
+        #     level=[]
+        #     for i in range(qlen):
+        #         node=q.popleft()
+        #         if node:
+        #             level.append(node.val)
+        #             q.append(node.left)
+        #             q.append(node.right)
+        #     if level:
+        #         a.append(level)
+        # return a
+        

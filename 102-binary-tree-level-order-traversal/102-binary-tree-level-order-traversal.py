@@ -12,8 +12,10 @@ class Solution:
             n, curLevel = len(q), []
             for i in range(n):
                 cur = q.popleft()
-                if cur.left: q.append(cur.left)
-                if cur.right: q.append(cur.right)
+                if cur.left: 
+                    q.append(cur.left)
+                if cur.right: 
+                    q.append(cur.right)
                 curLevel.append(cur.val)
             ans.append(curLevel)
         return ans

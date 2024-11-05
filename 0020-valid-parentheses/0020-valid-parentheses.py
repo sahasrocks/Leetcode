@@ -1,15 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        leftl = []
+        stack =[]
+        closetoopen={")":"(","]":"[","}":"{"}
         for c in s:
-            if c in ['(','{','[']:
-                leftl.append(c)
-            elif c==')' and len(leftl) !=0 and leftl[-1]== '(':
-                leftl.pop()
-            elif c=='}' and len(leftl) !=0 and leftl[-1]== '{':
-                leftl.pop()
-            elif c==']' and len(leftl) !=0 and leftl[-1]== '[':
-                leftl.pop()    
-            else :
-                return False
-        return leftl ==[]    
+            if c in closetoopen:
+                if stack and stack[-1]==closetoopen[c]:
+                    stack.pop()
+                else:
+                    return False
+            else:
+                stack.append(c)
+        return True if not stack else False                                 

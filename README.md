@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahasrocks/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahasrocks/Leetcode/tree/master/0242-valid-anagram) |
+| [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahasrocks/Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/sahasrocks/Leetcode/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/sahasrocks/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/sahasrocks/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahasrocks/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->

@@ -1,47 +1,38 @@
-class RandomizedSet:
-
+class RandomizedSet():
     def __init__(self):
-        self.elems = []
-        self.indexes = {}
-        
+        """
+        Initialize your data structure here.
+        """
+        self.dict = {}
+        self.list = []
 
-    def insert(self, val: int) -> bool:
-        if val in self.indexes:
+        
+    def insert(self, val):
+        """
+        Inserts a value to the set. Returns true if the set did not already contain the specified element.
+        """
+        if val in self.dict:
             return False
-		# New element will be at the end of list
-        self.indexes[val] = len(self.elems)
-        self.elems.append(val)
+        self.dict[val] = len(self.list)
+        self.list.append(val)
         return True
         
 
-    def remove(self, val: int) -> bool:
-        if val not in self.indexes:
-            return False
+    def remove(self, val):
+        """
+        Removes a value from the set. Returns true if the set contained the specified element.
+        """
+        if val in self.dict:
+            last_element_val, last_element_idx = self.list[-1], self.dict[val]
+            self.list[last_element_idx], self.dict[last_element_val] = last_element_val, last_element_idx
+            # delete the last element
+            self.list.pop()
+            del self.dict[val]
+            return True
+        return False
 
-        val_index = self.indexes[val]
-        last = self.elems[-1]
-		
-		# We're swapping the removed element with the last element in the list.
-		# The last element will move to the position of the element removed.
-        if val_index < len(self.elems)-1:  # Make sure we're not already last element
-            self.elems[val_index] = last
-            self.indexes[last] = val_index
-		
-		# Remove the last element. This is O(1).
-        self.elems.pop()
-		
-		# The removed element no longer has an index in the list. Update dictionary.
-        del self.indexes[val]
-        return True
-        
-
-    def getRandom(self) -> int:
-        return random.choice(self.elems)
-        
-
-
-# Your RandomizedSet object will be instantiated and called as such:
-# obj = RandomizedSet()
-# param_1 = obj.insert(val)
-# param_2 = obj.remove(val)
-# param_3 = obj.getRandom()
+    def getRandom(self):
+        """
+        Get a random element from the set.
+        """
+        return choice(self.list)

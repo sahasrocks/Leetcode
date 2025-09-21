@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahasrocks/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3678-design-task-manager](https://github.com/sahasrocks/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sahasrocks/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/sahasrocks/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sahasrocks/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahasrocks/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
+| [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/sahasrocks/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sahasrocks/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sahasrocks/Leetcode/tree/master/3827-implement-router) |
@@ -221,10 +224,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/sahasrocks/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/sahasrocks/Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/sahasrocks/Leetcode/tree/master/3827-implement-router) |
 ## Matrix

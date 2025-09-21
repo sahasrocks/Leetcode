@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/sahasrocks/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/0392-is-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahasrocks/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sahasrocks/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sahasrocks/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sahasrocks/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |

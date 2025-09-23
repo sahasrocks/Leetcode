@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sahasrocks/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahasrocks/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sahasrocks/Leetcode/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sahasrocks/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/sahasrocks/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0792-binary-search](https://github.com/sahasrocks/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/sahasrocks/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sahasrocks/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahasrocks/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sahasrocks/Leetcode/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |

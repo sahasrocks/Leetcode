@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/sahasrocks/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/sahasrocks/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sahasrocks/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sahasrocks/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sahasrocks/Leetcode/tree/master/0383-ransom-note) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/sahasrocks/Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahasrocks/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/sahasrocks/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sahasrocks/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sahasrocks/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sahasrocks/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 ## Simulation
 |  |
 | ------- |

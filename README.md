@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/sahasrocks/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/sahasrocks/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/sahasrocks/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/sahasrocks/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0830-largest-triangle-area](https://github.com/sahasrocks/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahasrocks/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -299,4 +301,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahasrocks/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/sahasrocks/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->

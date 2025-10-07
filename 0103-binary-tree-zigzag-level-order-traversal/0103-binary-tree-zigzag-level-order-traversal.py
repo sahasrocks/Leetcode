@@ -8,17 +8,37 @@ class Solution:
 # @param root, a tree node
 # @return a list of lists of integers
     def zigzagLevelOrder(self, root):
-        queue = collections.deque([root])
-        res = []
-        while queue:
-            r = []
-            for _ in range(len(queue)):
-                q = queue.popleft()
-                if q:
-                    r.append(q.val)
-                    queue.append(q.left)
-                    queue.append(q.right)
-            r = r[::-1] if len(res) % 2 else r
-            if r:
-                res.append(r)
-        return res
+        res=[]
+        q=deque([root] if root else [])
+        while q:
+
+            level=[]
+            for i in range(len(q)):
+                node=q.popleft()
+                level.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            level=list(reversed(level) if len(res)%2 else level)
+            res.append(level)
+        return res                 
+        
+        
+        
+        
+        
+        # queue = collections.deque([root])
+        # res = []
+        # while queue:
+        #     r = []
+        #     for _ in range(len(queue)):
+        #         q = queue.popleft()
+        #         if q:
+        #             r.append(q.val)
+        #             queue.append(q.left)
+        #             queue.append(q.right)
+        #     r = r[::-1] if len(res) % 2 else r
+        #     if r:
+        #         res.append(r)
+        # return res

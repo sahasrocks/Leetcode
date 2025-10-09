@@ -23,7 +23,27 @@ class Solution:
                         q.append([nei,w*weight])
                         visit.add(nei)
             return -1
-        return [bfs(q[0],q[1]) for q in queries]                    
+        #return [bfs(q[0],q[1]) for q in queries]
+        def dfs(src, target, visited):
+            if src not in adj or target not in adj:
+                return -1.0
+            if src == target:
+                return 1.0
+            
+            visited.add(src)
+            for nei, val in adj[src]:
+                if nei not in visited:
+                    res = dfs(nei, target, visited)
+                    if res != -1.0:
+                        return val * res  # Multiply the path ratio
+            return -1.0
+        
+        # Step 3: Process each query
+        results = []
+        for a, b in queries:
+            results.append(dfs(a, b, set()))
+        return results
+                            
 
         
         

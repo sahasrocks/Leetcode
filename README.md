@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/sahasrocks/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/sahasrocks/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahasrocks/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/sahasrocks/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/sahasrocks/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sahasrocks/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3797-design-spreadsheet](https://github.com/sahasrocks/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahasrocks/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |

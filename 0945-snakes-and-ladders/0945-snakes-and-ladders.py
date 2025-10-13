@@ -1,35 +1,79 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
-        n = len(board)
+        board.reverse()
+        length = len(board)
 
         def intToPos(square):
-            r = (square - 1) // n
-            c = (square - 1) % n
-            if r % 2 == 1:
-                c = n - 1 - c
-            r = n - 1 - r
-            return r, c
+            r = (square - 1) // length
+            c = (square - 1) % length
+            if r % 2:
+                c = length - 1 - c
+            return [r, c]
 
-        q = deque([(1, 0)])
-        visit = set()
+        q = deque()
+        q.append([1, 0])  # (square, moves)
+        visit = set([1])  # mark starting square visited
 
         while q:
             square, moves = q.popleft()
 
             for i in range(1, 7):
                 nextSquare = square + i
+
+                # ✅ Prevent out-of-bounds
+                if nextSquare > length * length:
+                    continue
+
                 r, c = intToPos(nextSquare)
+
+                # if ladder/snake
                 if board[r][c] != -1:
                     nextSquare = board[r][c]
 
-                if nextSquare == n * n:
+                # reached the end
+                if nextSquare == length * length:
                     return moves + 1
 
+                # enqueue next move
                 if nextSquare not in visit:
                     visit.add(nextSquare)
-                    q.append((nextSquare, moves + 1))
+                    q.append([nextSquare, moves + 1])
 
-        return -1                
+        return -1
+         
+
+    # class Solution:
+    # def snakesAndLadders(self, board: List[List[int]]) -> int:
+    #     n = len(board)
+
+    #     def intToPos(square):
+    #         r = (square - 1) // n
+    #         c = (square - 1) % n
+    #         if r % 2 == 1:
+    #             c = n - 1 - c
+    #         r = n - 1 - r
+    #         return r, c
+
+    #     q = deque([(1, 0)])
+    #     visit = set()
+
+    #     while q:
+    #         square, moves = q.popleft()
+
+    #         for i in range(1, 7):
+    #             nextSquare = square + i
+    #             r, c = intToPos(nextSquare)
+    #             if board[r][c] != -1:
+    #                 nextSquare = board[r][c]
+
+    #             if nextSquare == n * n:
+    #                 return moves + 1
+
+    #             if nextSquare not in visit:
+    #                 visit.add(nextSquare)
+    #                 q.append((nextSquare, moves + 1))
+
+    #     return -1           
 
 
 

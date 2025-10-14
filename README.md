@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sahasrocks/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sahasrocks/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/sahasrocks/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sahasrocks/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahasrocks/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sahasrocks/Leetcode/tree/master/0290-word-pattern) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/sahasrocks/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/sahasrocks/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/sahasrocks/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sahasrocks/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sahasrocks/Leetcode/tree/master/0290-word-pattern) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sahasrocks/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/sahasrocks/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -330,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahasrocks/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/sahasrocks/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
 |  |
 | ------- |

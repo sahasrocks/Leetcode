@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/sahasrocks/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sahasrocks/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/sahasrocks/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/sahasrocks/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sahasrocks/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sahasrocks/Leetcode/tree/master/0056-merge-intervals) |
@@ -556,5 +557,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahasrocks/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/sahasrocks/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sahasrocks/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/sahasrocks/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sahasrocks/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sahasrocks/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sahasrocks/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahasrocks/Leetcode/tree/master/0057-insert-interval) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/sahasrocks/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahasrocks/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sahasrocks/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/sahasrocks/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahasrocks/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/sahasrocks/Leetcode/tree/master/0407-trapping-rain-water-ii) |

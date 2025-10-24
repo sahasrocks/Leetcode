@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sahasrocks/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sahasrocks/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/sahasrocks/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sahasrocks/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sahasrocks/Leetcode/tree/master/0202-happy-number) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sahasrocks/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sahasrocks/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahasrocks/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sahasrocks/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/sahasrocks/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sahasrocks/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
@@ -584,4 +587,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahasrocks/Leetcode/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sahasrocks/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

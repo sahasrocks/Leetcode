@@ -3,7 +3,7 @@ class Solution:
         def bs(l,r):
             if l==r:
                 return l
-            m=l+(r-l)//2
+            m=(l+r)//2
             if nums[m]>nums[m+1]:
                 return bs(l,m)
             return bs(m+1,r)

@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sahasrocks/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sahasrocks/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahasrocks/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/sahasrocks/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sahasrocks/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sahasrocks/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahasrocks/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/sahasrocks/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0172-factorial-trailing-zeroes) |

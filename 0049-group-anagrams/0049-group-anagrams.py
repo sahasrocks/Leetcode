@@ -1,5 +1,17 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        res=defaultdict(list)
+        for s in strs:
+            sortedS=''.join(sorted(s))
+            res[sortedS].append(s)
+        return list(res.values())        
+
+
+
+
+
+
+
         # a_dict=defaultdict(list)
         # for s in strs:
         #     count=[0]*26
@@ -8,8 +20,8 @@ class Solution:
         #     key = tuple(count)
         #     a_dict[key].append(s)
         # return list(a_dict.values())        
-        a_dict = defaultdict(list)
-        for s in strs:
-            key = "".join(sorted(s))   # ✅ sorted string as key
-            a_dict[key].append(s)
-        return list(a_dict.values())
+        # a_dict = defaultdict(list)
+        # for s in strs:
+        #     key = "".join(sorted(s))   # ✅ sorted string as key
+        #     a_dict[key].append(s)
+        # return list(a_dict.values())

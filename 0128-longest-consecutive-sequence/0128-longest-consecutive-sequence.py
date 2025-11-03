@@ -11,13 +11,25 @@ class Solution:
         #         mx = max(mx, tmp)
 
         # return mx
-        numSet=set(nums)
-        longest=0
-        for n in numSet:
-            if (n-1) not in numSet:
-                length=0
-                while (n+length) in numSet:
-                    length+=1
-                longest=max(longest,length)
-        return longest          
+        # numSet=set(nums)
+        # longest=0
+        # for n in numSet:
+        #     if (n-1) not in numSet:
+        #         length=0
+        #         while (n+length) in numSet:
+        #             length+=1
+        #         longest=max(longest,length)
+        # return longest          
         
+
+        s=set(nums)
+        longest=0
+        for  num in s:
+            if num-1 not in s:
+                next_num=num+1
+                length=1
+                while next_num in s:
+                    length+=1
+                    next_num+=1
+                longest=max(longest,length)
+        return longest            

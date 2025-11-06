@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sahasrocks/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sahasrocks/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sahasrocks/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sahasrocks/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sahasrocks/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sahasrocks/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahasrocks/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahasrocks/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/sahasrocks/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/sahasrocks/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |

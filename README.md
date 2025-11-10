@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/sahasrocks/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahasrocks/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sahasrocks/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sahasrocks/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahasrocks/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/sahasrocks/Leetcode/tree/master/0120-triangle) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sahasrocks/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahasrocks/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sahasrocks/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sahasrocks/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahasrocks/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahasrocks/Leetcode/tree/master/0069-sqrtx) |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sahasrocks/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahasrocks/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sahasrocks/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree

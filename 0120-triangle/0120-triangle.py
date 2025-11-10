@@ -1,6 +1,27 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
-        for level in range(1, len(triangle)):
-            for i in range(level+1):
-                triangle[level][i] += min(triangle[level-1][min(i, level-1)], triangle[level-1][max(i-1,0)])
-        return min(triangle[-1])
+        
+        memo = [[float("inf")] * len(triangle[r]) for r in range(len(triangle))]
+
+
+        def dfs(r,c):
+            if r>=len(triangle):
+                return 0
+            if memo[r][c] != float("inf"):
+                return memo[r][c]
+            memo[r][c]=triangle[r][c] + min(dfs(r+1,c),dfs(r+1,c+1))
+            return memo[r][c]
+        return dfs(0,0)            
+
+        # def dfs(row,col):
+        #     if row>=len(triangle):
+        #         return 0
+        #     return triangle[row][col] + min(dfs(row+1,col),dfs(row+1,col+1))     
+        # return dfs(0,0)           
+        
+        
+        
+        # for level in range(1, len(triangle)):
+        #     for i in range(level+1):
+        #         triangle[level][i] += min(triangle[level-1][min(i, level-1)], triangle[level-1][max(i-1,0)])
+        # return min(triangle[-1])

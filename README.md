@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sahasrocks/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sahasrocks/Leetcode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/sahasrocks/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0474-ones-and-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahasrocks/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sahasrocks/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/sahasrocks/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sahasrocks/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/sahasrocks/Leetcode/tree/master/0772-construct-quad-tree) |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sahasrocks/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahasrocks/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sahasrocks/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/sahasrocks/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sahasrocks/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sahasrocks/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sahasrocks/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/sahasrocks/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahasrocks/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahasrocks/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/sahasrocks/Leetcode/tree/master/0772-construct-quad-tree) |

@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/sahasrocks/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/sahasrocks/Leetcode/tree/master/3396-valid-word) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sahasrocks/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahasrocks/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/sahasrocks/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahasrocks/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sahasrocks/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahasrocks/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sahasrocks/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sahasrocks/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sahasrocks/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sahasrocks/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/sahasrocks/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sahasrocks/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sahasrocks/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |

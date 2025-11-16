@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sahasrocks/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sahasrocks/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sahasrocks/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sahasrocks/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sahasrocks/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sahasrocks/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahasrocks/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sahasrocks/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/sahasrocks/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sahasrocks/Leetcode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/sahasrocks/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |

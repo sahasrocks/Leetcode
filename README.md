@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/sahasrocks/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sahasrocks/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sahasrocks/Leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/sahasrocks/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sahasrocks/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sahasrocks/Leetcode/tree/master/0202-happy-number) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/sahasrocks/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sahasrocks/Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/sahasrocks/Leetcode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/sahasrocks/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahasrocks/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahasrocks/Leetcode/tree/master/0162-find-peak-element) |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahasrocks/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahasrocks/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/sahasrocks/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/sahasrocks/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/sahasrocks/Leetcode/tree/master/0830-largest-triangle-area) |
 ## Combinatorics
 |  |

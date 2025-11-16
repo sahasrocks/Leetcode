@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sahasrocks/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sahasrocks/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/sahasrocks/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/sahasrocks/Leetcode/tree/master/0772-construct-quad-tree) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/sahasrocks/Leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/sahasrocks/Leetcode/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sahasrocks/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sahasrocks/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahasrocks/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/sahasrocks/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |

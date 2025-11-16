@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sahasrocks/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/sahasrocks/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sahasrocks/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/sahasrocks/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/sahasrocks/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/sahasrocks/Leetcode/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahasrocks/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sahasrocks/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |

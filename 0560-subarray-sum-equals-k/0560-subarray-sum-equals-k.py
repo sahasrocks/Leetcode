@@ -1,16 +1,29 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         res=0
-        curSum=0
-        preSum={0:1}
-
+        curs=0
+        pres=defaultdict(int)
+        pres[0]=1
         for n in nums:
-            curSum+=n
-            diff = curSum-k
-            res+=preSum.get(diff,0)
-
-            preSum[curSum]=1 + preSum.get(curSum,0)
+            curs+=n
+            diff = curs-k
+            res+=pres[diff]
+            pres[curs]+=1
         return res    
+        
+        
+        # res=0
+        # curSum=0
+        # preSum= defaultdict(int)
+        # preSum[0]=1
+
+        # for n in nums:
+        #     curSum+=n
+        #     diff = curSum-k
+        #     res+=preSum.get(diff,0)
+
+        #     preSum[curSum]=1 + preSum.get(curSum,0)
+        # return res    
         
         
         # res=0

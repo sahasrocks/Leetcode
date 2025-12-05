@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahasrocks/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/sahasrocks/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/sahasrocks/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahasrocks/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sahasrocks/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sahasrocks/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0772-construct-quad-tree](https://github.com/sahasrocks/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahasrocks/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sahasrocks/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sahasrocks/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |

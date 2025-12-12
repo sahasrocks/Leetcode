@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sahasrocks/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/sahasrocks/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahasrocks/Leetcode/tree/master/0739-daily-temperatures) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/sahasrocks/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sahasrocks/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sahasrocks/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sahasrocks/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
@@ -775,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

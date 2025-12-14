@@ -1,14 +1,15 @@
 class Solution:
-    def numberOfWays(self, c: str) -> int:
-        MOD = 10**9 + 7
-
-        seatsTotal = c.count('S')
-        if not (seatsTotal and seatsTotal%2 == 0):
+    def numberOfWays(self, corridor):
+        seat, res, plant = 0, 1, 0
+        for i in corridor:
+            if i=='S':
+                seat += 1
+            else:
+                if seat == 2:
+                    plant += 1
+            if seat == 3:
+                res = res*(plant+1) % (10**9 + 7)
+                seat , plant = 1 , 0
+        if seat != 2:
             return 0
-
-        result = 1
-        for m in re.finditer(r'S(P*)S', c[c.find('S')+1:]):
-            result *= len(m.group(1)) + 1
-            result %= MOD
-
-        return result
+        return res

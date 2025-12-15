@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/sahasrocks/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/sahasrocks/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sahasrocks/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sahasrocks/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/sahasrocks/Leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/sahasrocks/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sahasrocks/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sahasrocks/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahasrocks/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/sahasrocks/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahasrocks/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahasrocks/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahasrocks/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahasrocks/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sahasrocks/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/sahasrocks/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sahasrocks/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sahasrocks/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -788,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/sahasrocks/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1009,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sahasrocks/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream

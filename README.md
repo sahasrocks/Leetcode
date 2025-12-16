@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/sahasrocks/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0641-design-circular-deque](https://github.com/sahasrocks/Leetcode/tree/master/0641-design-circular-deque) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sahasrocks/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahasrocks/Leetcode/tree/master/0739-daily-temperatures) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sahasrocks/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahasrocks/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0641-design-circular-deque](https://github.com/sahasrocks/Leetcode/tree/master/0641-design-circular-deque) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sahasrocks/Leetcode/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sahasrocks/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0641-design-circular-deque](https://github.com/sahasrocks/Leetcode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/sahasrocks/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sahasrocks/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -797,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sahasrocks/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/sahasrocks/Leetcode/tree/master/0641-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |

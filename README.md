@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sahasrocks/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sahasrocks/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/sahasrocks/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sahasrocks/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sahasrocks/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sahasrocks/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/sahasrocks/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sahasrocks/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sahasrocks/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sahasrocks/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sahasrocks/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sahasrocks/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sahasrocks/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sahasrocks/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |

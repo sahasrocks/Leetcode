@@ -5,13 +5,23 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def traversal(self, root, preorder):
-        if root:
-            preorder.append(root.val)
-            self.traversal(root.left, preorder)
-            self.traversal(root.right, preorder)
+    # def traversal(self, root, preorder):
+    #     if root:
+    #         preorder.append(root.val)
+    #         self.traversal(root.left, preorder)
+    #         self.traversal(root.right, preorder)
             
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        preorder = []
-        self.traversal(root, preorder)
-        return preorder
+        res=[]
+        def dfs(root,res):
+            if not root:
+                return []
+            res.append(root.val)
+            dfs(root.left,res)
+            dfs(root.right,res)
+        dfs(root,res)
+        return res    
+        
+        # preorder = []
+        # self.traversal(root, preorder)
+        # return preorder

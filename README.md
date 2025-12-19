@@ -505,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sahasrocks/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sahasrocks/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahasrocks/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahasrocks/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sahasrocks/Leetcode/tree/master/0155-min-stack) |
@@ -838,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahasrocks/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahasrocks/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahasrocks/Leetcode/tree/master/0101-symmetric-tree) |
@@ -867,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahasrocks/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahasrocks/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahasrocks/Leetcode/tree/master/0101-symmetric-tree) |
@@ -924,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahasrocks/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahasrocks/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahasrocks/Leetcode/tree/master/0101-symmetric-tree) |

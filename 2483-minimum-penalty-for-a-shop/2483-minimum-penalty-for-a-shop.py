@@ -1,12 +1,22 @@
-class Solution:                                                 #     Ex:   customers = "YYNYNY"
-    def bestClosingTime(self, customers: str) -> int: 
-                                                                #        idx    0  1  2  3  4  5  6  7  8  9
-                                                                #               –  –  –  –  –  –  –  –  –  –
-                                                                #                 "Y  Y  N  N  Y  Y  Y  N  Y"
+class Solution:
+    def bestClosingTime(self, customers: str) -> int:
+        n=len(customers)
+        pren=[0]*(n+1)
+        posty=[0]*(n+1)
+        for i in range(1,n+1):
+            pren[i]=pren[i-1]
+            if customers[i-1]=="N":
+                pren[i]+=1
+        for i in range(n-1,-1,-1):
+            posty[i]=posty[i+1]
+            if customers[i]=="Y":
+                posty[i]+=1
+        minp,idx=float('inf'),0
+        for i in range(n+1):
+            pen=pren[i]+posty[i]
+            if pen<minp:
+                minp=pen
+                idx=i
+        return idx                        
 
-        arr = [2*(ch=='Y')-1 for ch in customers]               # <--    arr =    [1, 1,-1,-1, 1, 1, 1,-1, 1]
-                                                      
-        arr = list(accumulate(arr, initial = 0))                # <--    arr = [0, 1, 2, 1, 0, 1, 2, 3, 2, 3]
-                                                                #                                    |     |
-                                                                #                                  idx=7 idx=9
-        return arr.index(max(arr))  
+        

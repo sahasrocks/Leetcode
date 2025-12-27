@@ -887,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahasrocks/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/sahasrocks/Leetcode/tree/master/0772-construct-quad-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/sahasrocks/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sahasrocks/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sahasrocks/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahasrocks/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0951-flip-equivalent-binary-trees](https://github.com/sahasrocks/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sahasrocks/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sahasrocks/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -978,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahasrocks/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/sahasrocks/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |

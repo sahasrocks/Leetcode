@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahasrocks/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sahasrocks/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/sahasrocks/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sahasrocks/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahasrocks/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sahasrocks/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sahasrocks/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sahasrocks/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/sahasrocks/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sahasrocks/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/sahasrocks/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sahasrocks/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1029,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sahasrocks/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/sahasrocks/Leetcode/tree/master/0212-word-search-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -25,24 +25,36 @@
 #         self.right = right
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-        # def pre(node):
-        #     if not node:
-        #         return 0
-        #     return pre(node.left)+pre(node.right)+1
-        # return pre(root)        
-        from collections import deque
-
         if not root:
             return 0
         q=deque([root])
         c=0
         while q:
-            node=q.popleft()   
+            node=q.popleft()
             c+=1
             if node.left:
-                q.append(node.left) 
+                q.append(node.left)
             if node.right:
-                q.append(node.right) 
+                q.append(node.right)
+        return c                
+        # def pre(node):
+        #     if not node:
+        #         return 0
+        #     return pre(node.left)+pre(node.right)+1
+        # return pre(root)        
+        # from collections import deque
 
-        return c           
+        # if not root:
+        #     return 0
+        # q=deque([root])
+        # c=0
+        # while q:
+        #     node=q.popleft()   
+        #     c+=1
+        #     if node.left:
+        #         q.append(node.left) 
+        #     if node.right:
+        #         q.append(node.right) 
+
+        # return c           
         

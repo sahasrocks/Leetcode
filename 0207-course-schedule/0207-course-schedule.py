@@ -24,33 +24,55 @@
 #             return True                            
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap = {i: [] for i in range(numCourses)}
-
-        # Build adjacency list
+        preMap=defaultdict(list)
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
-
-        visitSet = set()
-
+        visited=set()
         def dfs(crs):
-            if crs in visitSet:
-                return False  # cycle detected
+            if crs in visited:
+                return False
             if preMap[crs] == []:
-                return True   # no prerequisites left
-
-            visitSet.add(crs)
+                return True
+            visited.add(crs)
             for pre in preMap[crs]:
                 if not dfs(pre):
                     return False
-            visitSet.remove(crs)
-            preMap[crs] = []  # mark as fully processed
+            visited.remove(crs)
+            preMap[crs] =[]
             return True
-
-        # check all courses
         for crs in range(numCourses):
             if not dfs(crs):
                 return False
-        return True
+        return True                                
+        
+        
+        # preMap = {i: [] for i in range(numCourses)}
+
+        # # Build adjacency list
+        # for crs, pre in prerequisites:
+        #     preMap[crs].append(pre)
+
+        # visitSet = set()
+
+        # def dfs(crs):
+        #     if crs in visitSet:
+        #         return False  # cycle detected
+        #     if preMap[crs] == []:
+        #         return True   # no prerequisites left
+
+        #     visitSet.add(crs)
+        #     for pre in preMap[crs]:
+        #         if not dfs(pre):
+        #             return False
+        #     visitSet.remove(crs)
+        #     preMap[crs] = []  # mark as fully processed
+        #     return True
+
+        # # check all courses
+        # for crs in range(numCourses):
+        #     if not dfs(crs):
+        #         return False
+        # return True
         
         
         

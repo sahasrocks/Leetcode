@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sahasrocks/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sahasrocks/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahasrocks/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sahasrocks/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahasrocks/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sahasrocks/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sahasrocks/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -827,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/sahasrocks/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahasrocks/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sahasrocks/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sahasrocks/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -851,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sahasrocks/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/sahasrocks/Leetcode/tree/master/0399-evaluate-division) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Geometry
 |  |
 | ------- |
@@ -933,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sahasrocks/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sahasrocks/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sahasrocks/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -963,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |

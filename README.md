@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sahasrocks/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/sahasrocks/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/sahasrocks/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahasrocks/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sahasrocks/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sahasrocks/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sahasrocks/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/sahasrocks/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahasrocks/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sahasrocks/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/sahasrocks/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sahasrocks/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sahasrocks/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |

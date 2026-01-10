@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sahasrocks/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahasrocks/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sahasrocks/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahasrocks/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahasrocks/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sahasrocks/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sahasrocks/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sahasrocks/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sahasrocks/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -1097,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/sahasrocks/Leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/sahasrocks/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sahasrocks/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sahasrocks/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahasrocks/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sahasrocks/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/sahasrocks/Leetcode/tree/master/0212-word-search-ii) |

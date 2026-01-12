@@ -17,10 +17,27 @@ class Solution:
                     level.append(node.val)
                     q.append(node.left)
                     q.append(node.right)
-            if level:        
-                level=(level)[::-1] if len(res)%2 else level
+            if level:
+                level = (level)[::-1] if len(res)%2 else level
                 res.append(level)
         return res                
+
+        
+        # res=[]
+        # q=deque([root])
+        # while q:
+        #     n=len(q)
+        #     level=[]
+        #     for i in range(n):
+        #         node=q.popleft()
+        #         if node:
+        #             level.append(node.val)
+        #             q.append(node.left)
+        #             q.append(node.right)
+        #     if level:        
+        #         level=(level)[::-1] if len(res)%2 else level
+        #         res.append(level)
+        # return res                
 
 
 

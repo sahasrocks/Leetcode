@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/sahasrocks/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahasrocks/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sahasrocks/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sahasrocks/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sahasrocks/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahasrocks/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/sahasrocks/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahasrocks/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/sahasrocks/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahasrocks/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sahasrocks/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/sahasrocks/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sahasrocks/Leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/sahasrocks/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sahasrocks/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |

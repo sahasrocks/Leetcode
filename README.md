@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sahasrocks/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahasrocks/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sahasrocks/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/sahasrocks/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sahasrocks/Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/sahasrocks/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahasrocks/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/sahasrocks/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahasrocks/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahasrocks/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sahasrocks/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sahasrocks/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahasrocks/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahasrocks/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sahasrocks/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahasrocks/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahasrocks/Leetcode/tree/master/0101-symmetric-tree) |
@@ -1051,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahasrocks/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sahasrocks/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahasrocks/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahasrocks/Leetcode/tree/master/0101-symmetric-tree) |
@@ -1086,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sahasrocks/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sahasrocks/Leetcode/tree/master/0173-binary-search-tree-iterator) |

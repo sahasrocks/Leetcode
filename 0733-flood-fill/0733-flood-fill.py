@@ -1,21 +1,35 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        #bfs
-        orig = image[sr][sc]
+        #dfs
+        orig=image[sr][sc]
         if orig ==color:
             return image
         m,n=len(image),len(image[0])
-        q=deque([(sr,sc)])
-        image[sr][sc]=color
-        dirs=[(1,0),(-1,0),(0,1),(0,-1)]
-        while q:
-            r,c= q.popleft()
-            for dr,dc in dirs:
-                nr,nc=r+dr,c+dc
-                if 0<=nr<m and 0<=nc<n and image[nr][nc]==orig:
-                    image[nr][nc]=color
-                    q.append((nr,nc))
-        return image               
+        dirs=[1,0,-1,0,1]
+        def dfs(r,c,orig):
+            if not (0<=r<m) or not (0<=c<n ) or  image[r][c] !=orig:
+                return
+            image[r][c] = color
+            for d in range(4):
+                dfs(r+dirs[d],c+dirs[d+1],orig)
+        dfs(sr,sc,image[sr][sc])
+        return image                
+        #bfs
+        # orig = image[sr][sc]
+        # if orig ==color:
+        #     return image
+        # m,n=len(image),len(image[0])
+        # q=deque([(sr,sc)])
+        # image[sr][sc]=color
+        # dirs=[(1,0),(-1,0),(0,1),(0,-1)]
+        # while q:
+        #     r,c= q.popleft()
+        #     for dr,dc in dirs:
+        #         nr,nc=r+dr,c+dc
+        #         if 0<=nr<m and 0<=nc<n and image[nr][nc]==orig:
+        #             image[nr][nc]=color
+        #             q.append((nr,nc))
+        # return image               
 
 
         

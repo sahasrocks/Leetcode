@@ -1036,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahasrocks/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sahasrocks/Leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahasrocks/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1071,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/sahasrocks/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sahasrocks/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sahasrocks/Leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahasrocks/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1242,9 +1244,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sahasrocks/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sahasrocks/Leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/sahasrocks/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->

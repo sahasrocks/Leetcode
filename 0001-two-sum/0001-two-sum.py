@@ -5,7 +5,23 @@ class Solution:
             diff=target-e
             if diff in m:
                 return [m[diff],i]
-            m[e]=i
+            m[e]=i    
+        
+        
+        # m={}
+        # for i,e in enumerate(nums):
+        #     diff=target-e
+        #     if diff in m:
+        #         return [m[diff],i]
+        #     m[e]=i    
+
+
+        # m={}
+        # for i,e in enumerate(nums):
+        #     diff=target-e
+        #     if diff in m:
+        #         return [m[diff],i]
+        #     m[e]=i
                 
         
         # m={}

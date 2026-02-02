@@ -1,15 +1,54 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         res=0
-        curs=0
-        pres=defaultdict(int)
-        pres[0]=1
+        curS=0
+        preS=defaultdict(int)
+        preS[0]=1
         for n in nums:
-            curs+=n
-            diff = curs-k
-            res+=pres[diff]
-            pres[curs]+=1
+            curS+=n
+            diff = curS-k
+            res+=preS[diff]
+            preS[curS]+=1
         return res    
+        
+        
+        # res=0
+        # curS=0
+        # preS=defaultdict(int)
+        # preS[0]=1
+        # for n in nums:
+        #     curS+=n
+        #     diff = curS-k
+        #     res+=preS[diff]
+        #     preS[curS]+=1
+        # print(preS)    
+        # return res    
+        
+        
+        
+        
+        # res=0
+        # curS=0
+        # preS=defaultdict(int)
+        # preS[0]=1
+        # for n in nums:
+        #     curS+=n
+        #     diff = curS-k
+        #     res+=preS[diff]
+        #     preS[curS]+=1
+        # return res    
+        
+        
+        # res=0
+        # curs=0
+        # pres=defaultdict(int)
+        # pres[0]=1
+        # for n in nums:
+        #     curs+=n
+        #     diff = curs-k
+        #     res+=pres[diff]
+        #     pres[curs]+=1
+        # return res    
         
         
         # res=0

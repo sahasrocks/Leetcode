@@ -1,15 +1,105 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        cs=set()
+        c=set()
         l=0
         res=0
-        for r in range(len(s)):
-            while s[r] in cs:
-                cs.remove(s[l])
+        for i in range(len(s)):
+            while s[i] in c:
+                c.remove(s[l])
                 l+=1
-            cs.add(s[r])
-            res=max(res,r-l+1)
-        return res         
+            c.add(s[i])
+            res=max(res,i-l+1)
+        return res        
+        
+        
+        # c=set()
+        # l=0
+        # res=0
+        # for i in range(len(s)):
+        #     while s[i] in c:
+        #         c.remove(s[l])
+        #         l+=1
+        #     c.add(s[i])
+        #     res=max(res,i-l+1) 
+        # return res       
+        
+        
+        # c=set()
+        # l=0
+        # res=0
+        # for i in range(len(s)):
+        #     while s[i] in c:
+        #         c.remove(s[l])
+        #         l+=1
+        #     c.add(s[i])
+        #     res=max(res,i-l+1)
+        # return res        
+
+
+
+        # c=set()
+        # l=0
+        # res=0
+        # for  i in range(len(s)):
+        #     while s[i] in c:
+        #         c.remove(s[l])
+        #         l+=1
+        #     c.add(s[i])
+        #     res=max(res,i-l+1)
+        # return res    
+        # c=set()
+        # l=0
+        # res=0
+        # for r in range(len(s)):
+        #     while s[r] in c:
+        #         c.remove(s[l])
+        #         l+=1
+        #     c.add(s[r])
+        #     res=max(res,r-l+1)
+        # return res        
+        
+        # c=set()
+        # l=0
+        # res=0
+        # for r in range(len(s)):
+        #     while s[r] in c:
+        #         c.remove(s[l])
+        #         l+=1
+        #     c.add(s[r])
+        #     res=max(res,r-l+1)
+        # return res    
+
+        
+        
+        
+        # c=set()
+        # l=0
+        # res=0
+        # for r in range(len(s)):
+        #     while s[r] in c:
+        #         c.remove(s[l])
+        #         l+=1
+        #     c.add(s[r])
+        #     res=max(res,r-l+1)
+        # return res        
+
+        
+        
+        
+        
+        
+        
+        
+        # cs=set()
+        # l=0
+        # res=0
+        # for r in range(len(s)):
+        #     while s[r] in cs:
+        #         cs.remove(s[l])
+        #         l+=1
+        #     cs.add(s[r])
+        #     res=max(res,r-l+1)
+        # return res         
         
         # res=0
         # for i in range(len(s)):

@@ -8,7 +8,7 @@ class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
         if not root:
             return []
-        res=[]    
+        res=[]
         def dfs(root,path):
             if not root.left and not root.right:
                 if targetSum==sum(path+[root.val]):
@@ -18,7 +18,21 @@ class Solution:
             if root.right:
                 dfs(root.right,path+[root.val])
         dfs(root,[])
-        return res                    
+        return res                        
+        
+        # if not root:
+        #     return []
+        # res=[]    
+        # def dfs(root,path):
+        #     if not root.left and not root.right:
+        #         if targetSum==sum(path+[root.val]):
+        #             return res.append(path+[root.val])
+        #     if root.left:
+        #         dfs(root.left,path+[root.val])
+        #     if root.right:
+        #         dfs(root.right,path+[root.val])
+        # dfs(root,[])
+        # return res                    
 
 
         # # dfs function to find path from root to leaf

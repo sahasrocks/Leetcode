@@ -15,6 +15,18 @@ class Solution:
         for i in range(k):
             res.append(heapq.heappop(heap)[1])
         return res                
+        # c=defaultdict(int)
+        # for n in nums:
+        #     c[n]+=1
+        # heap=[]
+        # for num in c.keys():
+        #     heapq.heappush(heap,(c[num],num))
+        #     if len(heap)>k:
+        #         heapq.heappop(heap)
+        # res=[]
+        # for i in range(k):
+        #     res.append(heapq.heappop(heap)[1])
+        # return res                
         
         
         # count={}

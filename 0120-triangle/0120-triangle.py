@@ -10,6 +10,16 @@ class Solution:
             dp[i][j] = triangle[i][j] + min(dfs(i+1,j),dfs(i+1,j+1))
             return dp[i][j]
         return dfs(0,0)            
+        # m=len(triangle)
+        # dp=[[float('inf')]*m for i in range(m)]
+        # def dfs(i,j):
+        #     if i>=m:
+        #         return 0
+        #     if dp[i][j] != float('inf'):
+        #         return dp[i][j]
+        #     dp[i][j] = triangle[i][j] + min(dfs(i+1,j),dfs(i+1,j+1))
+        #     return dp[i][j]
+        # return dfs(0,0)            
         # memo = [[float("inf")] * len(triangle[r]) for r in range(len(triangle))]
 
 

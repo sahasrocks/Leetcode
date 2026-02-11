@@ -9,9 +9,21 @@ class Solution:
                 return float('inf')
             if dp[i][j] != -1:
                 return dp[i][j]
-            dp[i][j] = grid[i][j] + min(dfs(i+1,j),dfs(i,j+1))
+            dp[i][j]= grid[i][j] + min(dfs(i+1,j),dfs(i,j+1))
             return dp[i][j]
         return dfs(0,0)                
+        # m,n=len(grid),len(grid[0])
+        # dp=[[-1]*n for i in range(m)]
+        # def dfs(i,j):
+        #     if i==m-1 and j==n-1:
+        #         return grid[i][j]
+        #     if i>=m or j>=n:
+        #         return float('inf')
+        #     if dp[i][j] != -1:
+        #         return dp[i][j]
+        #     dp[i][j] = grid[i][j] + min(dfs(i+1,j),dfs(i,j+1))
+        #     return dp[i][j]
+        # return dfs(0,0)                
         
         
         # ROWS, COLS = len(grid), len(grid[0])

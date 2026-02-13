@@ -4,13 +4,24 @@ class Solution:
         res=len(points)
         prev=points[0]
         for i in range(1,len(points)):
-            cur = points[i]
+            cur=points[i]
             if cur[0]<=prev[1]:
                 res-=1
                 prev=[cur[0],min(cur[1],prev[1])]
             else:
                 prev=cur
         return res            
+        # points.sort()
+        # res=len(points)
+        # prev=points[0]
+        # for i in range(1,len(points)):
+        #     cur = points[i]
+        #     if cur[0]<=prev[1]:
+        #         res-=1
+        #         prev=[cur[0],min(cur[1],prev[1])]
+        #     else:
+        #         prev=cur
+        # return res            
         
         # points.sort(key=lambda p:p[1])
         # ans,arrow=0,0

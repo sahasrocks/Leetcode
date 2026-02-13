@@ -3,13 +3,23 @@ class Solution:
         intervals.sort()
         res=0
         pre=intervals[0][1]
-        for start,end in intervals[1:]:
-            if start>=pre:
-                pre = end
+        for s,e in intervals[1:]:
+            if s>=pre:
+                pre=e
             else:
                 res+=1
-                pre=min(pre,end)
+                pre=min(pre,e)
         return res            
+        # intervals.sort()
+        # res=0
+        # pre=intervals[0][1]
+        # for start,end in intervals[1:]:
+        #     if start>=pre:
+        #         pre = end
+        #     else:
+        #         res+=1
+        #         pre=min(pre,end)
+        # return res            
         
         
         

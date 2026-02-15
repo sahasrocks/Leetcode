@@ -11,6 +11,17 @@ class Solution:
             preS[curS]+=1
         return res    
         
+        # res=0
+        # curS=0
+        # preS=defaultdict(int)
+        # preS[0]=1
+        # for n in nums:
+        #     curS+=n
+        #     diff = curS-k
+        #     res+=preS[diff]
+        #     preS[curS]+=1
+        # return res    
+        
         
         # res=0
         # curS=0

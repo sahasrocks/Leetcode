@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sahasrocks/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sahasrocks/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sahasrocks/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/sahasrocks/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sahasrocks/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sahasrocks/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahasrocks/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/sahasrocks/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sahasrocks/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sahasrocks/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |

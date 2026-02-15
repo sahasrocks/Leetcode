@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sahasrocks/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/sahasrocks/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sahasrocks/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/sahasrocks/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sahasrocks/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sahasrocks/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sahasrocks/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sahasrocks/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sahasrocks/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahasrocks/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sahasrocks/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sahasrocks/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sahasrocks/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |

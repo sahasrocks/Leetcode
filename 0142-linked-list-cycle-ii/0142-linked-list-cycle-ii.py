@@ -10,13 +10,37 @@ class Solution(object):
         while fast and fast.next:
             fast=fast.next.next
             slow=slow.next
-            if slow==fast:
+            if slow == fast:
                 break
         else:
             return None
-        while head != slow:
+        while head !=slow:
             head,slow=head.next,slow.next
         return head                
+        
+        # slow,fast=head,head
+        # while fast and fast.next:
+        #     fast=fast.next.next
+        #     slow=slow.next
+        #     if slow == fast:
+        #         break
+        # else:
+        #     return None
+        # while head != slow:
+        #     head,slow = head.next,slow.next
+        # return head                
+        
+        # slow,fast=head,head
+        # while fast and fast.next:
+        #     fast=fast.next.next
+        #     slow=slow.next
+        #     if slow==fast:
+        #         break
+        # else:
+        #     return None
+        # while head != slow:
+        #     head,slow=head.next,slow.next
+        # return head                
 
 
        

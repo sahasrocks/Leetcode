@@ -20,7 +20,19 @@ class Solution:
             dfs(root.left,res)
             dfs(root.right,res)
         dfs(root,res)
-        return res    
+        return res        
+        
+        
+        
+        # res=[]
+        # def dfs(root,res):
+        #     if not root:
+        #         return []
+        #     res.append(root.val)
+        #     dfs(root.left,res)
+        #     dfs(root.right,res)
+        # dfs(root,res)
+        # return res    
         
         # preorder = []
         # self.traversal(root, preorder)

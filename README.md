@@ -811,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/sahasrocks/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sahasrocks/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/sahasrocks/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0693-binary-number-with-alternating-bits](https://github.com/sahasrocks/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sahasrocks/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |

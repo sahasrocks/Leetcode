@@ -22,6 +22,20 @@ class Solution:
         
         # if not root:
         #     return []
+        # res=[]
+        # def dfs(root,path):
+        #     if not root.left and not root.right:
+        #         if targetSum==sum(path+[root.val]):
+        #             return res.append(path+[root.val])
+        #     if root.left:
+        #         dfs(root.left,path+[root.val])
+        #     if root.right:
+        #         dfs(root.right,path+[root.val])
+        # dfs(root,[])
+        # return res                        
+        
+        # if not root:
+        #     return []
         # res=[]    
         # def dfs(root,path):
         #     if not root.left and not root.right:

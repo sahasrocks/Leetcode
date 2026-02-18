@@ -3,8 +3,8 @@ class Solution:
         premap=defaultdict(list)
         for cre,pre in prerequisites:
             premap[cre].append(pre)
-        cycle = set()
-        visited = set()
+        cycle=set()
+        visited=set()
         res=[]
         def dfs(crs):
             if crs in cycle:
@@ -13,16 +13,40 @@ class Solution:
                 return True
             cycle.add(crs)
             for pre in premap[crs]:
-                if dfs(pre) == False:
+                if not dfs(pre):
                     return False
             visited.add(crs)
             cycle.remove(crs)
             res.append(crs)
             return True
-        for n in range(numCourses):
-            if dfs(n) ==False:
+        for crs in range(numCourses):
+            if not dfs(crs):
                 return []
-        return res        
+        return res                                
+        
+        # premap=defaultdict(list)
+        # for cre,pre in prerequisites:
+        #     premap[cre].append(pre)
+        # cycle = set()
+        # visited = set()
+        # res=[]
+        # def dfs(crs):
+        #     if crs in cycle:
+        #         return False
+        #     if crs in visited:
+        #         return True
+        #     cycle.add(crs)
+        #     for pre in premap[crs]:
+        #         if dfs(pre) == False:
+        #             return False
+        #     visited.add(crs)
+        #     cycle.remove(crs)
+        #     res.append(crs)
+        #     return True
+        # for n in range(numCourses):
+        #     if dfs(n) ==False:
+        #         return []
+        # return res        
 
         
         

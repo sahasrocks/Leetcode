@@ -37,6 +37,19 @@ class Solution:
             if node.right:
                 q.append(node.right)
         return c                
+        
+        # if not root:
+        #     return 0
+        # q=deque([root])
+        # c=0
+        # while q:
+        #     node=q.popleft()
+        #     c+=1
+        #     if node.left:
+        #         q.append(node.left)
+        #     if node.right:
+        #         q.append(node.right)
+        # return c                
         # def pre(node):
         #     if not node:
         #         return 0

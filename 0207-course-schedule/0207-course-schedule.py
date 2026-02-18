@@ -25,7 +25,7 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         premap=defaultdict(list)
-        for crs,pre in prerequisites:
+        for crs, pre in prerequisites:
             premap[crs].append(pre)
         visited=set()
         def dfs(crs):
@@ -40,10 +40,32 @@ class Solution:
             visited.remove(crs)
             premap[crs]=[]
             return True
-        for crs in range(numCourses):
-            if not dfs(crs):
+        for i in range(numCourses):
+            if not dfs(i):
                 return False
-        return True        
+        return True                                
+        
+        
+        # premap=defaultdict(list)
+        # for crs,pre in prerequisites:
+        #     premap[crs].append(pre)
+        # visited=set()
+        # def dfs(crs):
+        #     if crs in visited:
+        #         return False
+        #     if premap[crs]==[]:
+        #         return True
+        #     visited.add(crs)
+        #     for pre in premap[crs]:
+        #         if not dfs(pre):
+        #             return False
+        #     visited.remove(crs)
+        #     premap[crs]=[]
+        #     return True
+        # for crs in range(numCourses):
+        #     if not dfs(crs):
+        #         return False
+        # return True        
 
         
         

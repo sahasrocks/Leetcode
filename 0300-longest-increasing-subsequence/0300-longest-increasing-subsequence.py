@@ -1,16 +1,28 @@
 class Solution:
     def lengthOfLIS(self, nums):
-        dp=[-1]*len(nums)
+        dp=[-1]*(len(nums))
         def dfs(i):
             if dp[i] !=-1:
                 return dp[i]
             lis=1
             for j in range(i+1,len(nums)):
                 if nums[i]<nums[j]:
-                    lis=max(lis,1+dfs(j))
+                    lis=max(lis,1+dfs(j)) 
             dp[i]=lis
-            return lis
-        return max(dfs(i) for i in range(len(nums)))           
+            return dp[i] 
+        return max(dfs(i) for i in range(len(nums)))              
+        
+        # dp=[-1]*len(nums)
+        # def dfs(i):
+        #     if dp[i] !=-1:
+        #         return dp[i]
+        #     lis=1
+        #     for j in range(i+1,len(nums)):
+        #         if nums[i]<nums[j]:
+        #             lis=max(lis,1+dfs(j))
+        #     dp[i]=lis
+        #     return lis
+        # return max(dfs(i) for i in range(len(nums)))           
         
         # dp=[[-1]*(len(nums)+1) for i in range(len(nums))]
         # def dfs(i,j):

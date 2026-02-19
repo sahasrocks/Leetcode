@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/sahasrocks/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sahasrocks/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sahasrocks/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3110-score-of-a-string](https://github.com/sahasrocks/Leetcode/tree/master/3110-score-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/sahasrocks/Leetcode/tree/master/3396-valid-word) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sahasrocks/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |

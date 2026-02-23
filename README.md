@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/sahasrocks/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahasrocks/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sahasrocks/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/sahasrocks/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sahasrocks/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sahasrocks/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sahasrocks/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sahasrocks/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sahasrocks/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -817,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/sahasrocks/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/sahasrocks/Leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sahasrocks/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sahasrocks/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -936,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/sahasrocks/Leetcode/tree/master/0817-design-hashmap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sahasrocks/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -1409,4 +1413,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sahasrocks/Leetcode/tree/master/0278-first-bad-version) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sahasrocks/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

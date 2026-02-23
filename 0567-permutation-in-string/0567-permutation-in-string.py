@@ -1,26 +1,34 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        if len(s1) > len(s2):
-            return False
-
-        s1Count = [0] * 26
-        s2Count = [0] * 26
-
-        for c in s1:
-            s1Count[ord(c) - ord('a')] += 1
-
-        l = 0
-        for r in range(len(s2)):
-            s2Count[ord(s2[r]) - ord('a')] += 1
-
-            if (r - l + 1) > len(s1):
-                s2Count[ord(s2[l]) - ord('a')] -= 1
-                l += 1
-
-            if s1Count == s2Count:
+        window=len(s1)
+        s1_c=Counter(s1)
+        for i in range(len(s2)-window+1):
+            s2_c=Counter(s2[i:i+window])
+            if s2_c==s1_c:
                 return True
+        return False        
+        
+        # if len(s1) > len(s2):
+        #     return False
 
-        return False
+        # s1Count = [0] * 26
+        # s2Count = [0] * 26
+
+        # for c in s1:
+        #     s1Count[ord(c) - ord('a')] += 1
+
+        # l = 0
+        # for r in range(len(s2)):
+        #     s2Count[ord(s2[r]) - ord('a')] += 1
+
+        #     if (r - l + 1) > len(s1):
+        #         s2Count[ord(s2[l]) - ord('a')] -= 1
+        #         l += 1
+
+        #     if s1Count == s2Count:
+        #         return True
+
+        # return False
 
 # class Solution:
 #     def checkInclusion(self, s1: str, s2: str) -> bool:

@@ -1,11 +1,8 @@
 class Solution:
     def numSpecial(self, mat: List[List[int]]) -> int:
-        n=len(mat)
-        m=len(mat[0])
-        ans=0
-        transposeMat=list(zip(*mat))
-        for i in range(n):
-            for j in range(m):
-                if mat[i][j]==1 and sum(mat[i])==1 and sum(transposeMat[j])==1:
-                    ans+=1
-        return ans 
+        c=0
+        for i in range(len(mat)):
+            for j in range(len(mat[0])):
+                if mat[i][j]==1 and sum(mat[i])==1 and sum(row[j] for row in mat)==1:
+                    c+=1
+        return c            

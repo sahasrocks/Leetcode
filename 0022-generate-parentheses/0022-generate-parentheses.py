@@ -1,16 +1,43 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res=[]
-        def bt(cur,open,close):
-            if len(cur) == 2*n:
+        def dfs(cur,open,close):
+            if len(cur)==2*n:
                 res.append(cur)
                 return
             if open<n:
-                bt(cur+'(',open+1,close)
+                dfs(cur+'(',open+1,close)
             if close<open:
-                bt(cur+')',open,close+1)
-        bt("",0,0)
+                dfs(cur+')',open,close+1)
+        dfs("",0,0)
         return res                
+        
+        
+        
+        
+        # res=[]
+        # def dfs(cur,open,close):
+        #     if len(cur)==2*n:
+        #         res.append(cur)
+        #         return
+        #     if open<n:
+        #         dfs(cur+'(',open+1,close)
+        #     if close<open:
+        #         dfs(cur+')',open,close+1)
+        # dfs("",0,0)
+        # return res                
+        
+        # res=[]
+        # def bt(cur,open,close):
+        #     if len(cur) == 2*n:
+        #         res.append(cur)
+        #         return
+        #     if open<n:
+        #         bt(cur+'(',open+1,close)
+        #     if close<open:
+        #         bt(cur+')',open,close+1)
+        # bt("",0,0)
+        # return res                
         
         # stack=[]
         # res=[]

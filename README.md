@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/sahasrocks/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/sahasrocks/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahasrocks/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahasrocks/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahasrocks/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sahasrocks/Leetcode/tree/master/0164-maximum-gap) |
@@ -610,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahasrocks/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahasrocks/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahasrocks/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sahasrocks/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/sahasrocks/Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sahasrocks/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sahasrocks/Leetcode/tree/master/0198-house-robber) |

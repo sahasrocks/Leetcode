@@ -20,16 +20,73 @@ class Solution:
         #             length+=1
         #         longest=max(longest,length)
         # return longest          
-        
-
         s=set(nums)
         longest=0
-        for  num in s:
-            if num-1 not in s:
-                next_num=num+1
+        for n in s:
+            if n-1 not in s:
+                next_n=n+1
                 length=1
-                while next_num in s:
+                while next_n in s:
                     length+=1
-                    next_num+=1
+                    next_n+=1
                 longest=max(longest,length)
         return longest            
+        
+        # s=set(nums)
+        # longest=0
+        # for n in s:
+        #     if n-1 not in s:
+        #         next_n=n+1
+        #         length=1
+        #         while next_n in s:
+        #             length+=1
+        #             next_n+=1
+        #         longest=max(length,longest)
+        # return longest            
+        # s=set(nums)
+        # longest=0
+        # for n in s:
+        #     if n-1 not in s:
+        #         next_n = n+1
+        #         length=1
+        #         while next_n in s:
+        #             length+=1
+        #             next_n+=1
+        #         longest=max(longest,length)
+        # return longest            
+        
+        # s=set(nums)
+        # longest=0
+        # for n in s:
+        #     if n-1 not in s:
+        #         next_n=n+1
+        #         length=1
+        #         while next_n in s:
+        #             length+=1
+        #             next_n+=1
+        #         longest=max(longest,length)
+        # return longest            
+        # s=set(nums)
+        # longest=0
+        # for n in s:
+        #     if n-1 not in s:
+        #         next_n=n+1
+        #         length=1
+        #         while next_n in s:
+        #             length+=1
+        #             next_n +=1
+        #         longest=max(longest,length)    
+        # return longest        
+
+
+        # s=set(nums)
+        # longest=0
+        # for  num in s:
+        #     if num-1 not in s:
+        #         next_num=num+1
+        #         length=1
+        #         while next_num in s:
+        #             length+=1
+        #             next_num+=1
+        #         longest=max(longest,length)
+        # return longest            

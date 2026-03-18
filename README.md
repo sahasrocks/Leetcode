@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sahasrocks/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sahasrocks/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahasrocks/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sahasrocks/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sahasrocks/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sahasrocks/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sahasrocks/Leetcode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/sahasrocks/Leetcode/tree/master/0901-online-stock-span) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sahasrocks/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sahasrocks/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |

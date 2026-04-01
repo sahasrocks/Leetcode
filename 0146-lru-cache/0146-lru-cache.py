@@ -1,23 +1,51 @@
+
 from collections import OrderedDict
 
 class LRUCache:
-    __slots__ = ('data', 'capacity')
 
     def __init__(self, capacity: int):
-        self.data: Dict[int, int] = OrderedDict()
-        self.capacity: int = capacity
+        self.cache=OrderedDict()
+        self.cap= capacity      
 
     def get(self, key: int) -> int:
-        return -1 if key not in self.data else self.data.setdefault(key, self.data.pop(key))
+        if key not in self.cache:
+            return -1
+        self.cache.move_to_end(key)
+        return self.cache[key]    
+            
 
     def put(self, key: int, value: int) -> None:
-        try:
-            self.data.move_to_end(key)
-            self.data[key] = value
-        except KeyError:
-            self.data[key] = value
-            if len(self.data) > self.capacity:
-                self.data.popitem(last=False)
+        if key in self.cache:
+            self.cache.move_to_end(key)
+        self.cache[key]=value
+        if len(self.cache)>self.cap:
+            self.cache.popitem(last=False)
+        
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
+
+# class LRUCache:
+#     __slots__ = ('data', 'capacity')
+
+#     def __init__(self, capacity: int):
+#         self.data: Dict[int, int] = OrderedDict()
+#         self.capacity: int = capacity
+
+#     def get(self, key: int) -> int:
+#         return -1 if key not in self.data else self.data.setdefault(key, self.data.pop(key))
+
+#     def put(self, key: int, value: int) -> None:
+#         try:
+#             self.data.move_to_end(key)
+#             self.data[key] = value
+#         except KeyError:
+#             self.data[key] = value
+#             if len(self.data) > self.capacity:
+#                 self.data.popitem(last=False)
         
 
 

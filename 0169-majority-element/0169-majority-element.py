@@ -1,15 +1,10 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        # n=0
-        # maj=None
-        # for num in nums:
-        #     if n==0:
-        #         maj= num
-        #     n +=1 if maj ==num else -1
-        # return maj        
+
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        # from collections import Counter
+        # c = Counter(nums)
+        # c.most_common()
+        # value, count = c.most_common()[0]
+        # return value
         a=nums.sort()
         return nums[len(nums)//2]

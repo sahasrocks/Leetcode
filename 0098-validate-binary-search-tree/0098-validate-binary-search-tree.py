@@ -10,9 +10,33 @@ class Solution:
             if not node:
                 return True
             if not (l<node.val and r>node.val):
-                return False
-            return (dfs(node.left,l,node.val) and dfs(node.right,node.val,r))
-        return dfs(root,float("-inf"),float("inf"))            
+                return False    
+            return dfs(node.left,l,node.val) and dfs(node.right,node.val,r)
+        return dfs(root,float('-inf'),float('inf'))        
+        
+        # def dfs(node,l,r):
+        #     if not node:
+        #         return True
+        #     if not (l<node.val and r>node.val):
+        #         return False
+        #     return dfs(node.left,l,node.val) and dfs(node.right,node.val,r)
+        # return dfs(root,float('-inf'),float('inf'))            
+        
+        # def dfs(node,l,r):
+        #     if not node:
+        #         return True
+        #     if not (l<node.val and r>node.val):
+        #         return False
+        #     return (dfs(node.left,l,node.val) and dfs(node.right,node.val,r))
+        # return dfs(root,float("-inf"),float("inf"))          
+        
+        # def dfs(node,l,r):
+        #     if not node:
+        #         return True
+        #     if not (l<node.val and r>node.val):
+        #         return False
+        #     return (dfs(node.left,l,node.val) and dfs(node.right,node.val,r))
+        # return dfs(root,float("-inf"),float("inf"))            
         # def dfs(node,l,r):
         #     if not node:
         #         return True

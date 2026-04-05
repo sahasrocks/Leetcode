@@ -1,19 +1,49 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        #dfs
         orig=image[sr][sc]
-        if orig ==color:
+        if orig==color:
             return image
         m,n=len(image),len(image[0])
-        dirs=[1,0,-1,0,1]
         def dfs(r,c,orig):
-            if not (0<=r<m) or not (0<=c<n ) or  image[r][c] !=orig:
+            if r<0 or r>=m or c<0 or c>=n or image[r][c]!=orig:
                 return
-            image[r][c] = color
-            for d in range(4):
-                dfs(r+dirs[d],c+dirs[d+1],orig)
-        dfs(sr,sc,image[sr][sc])
-        return image                
+            image[r][c]=color
+            dfs(r+1,c,orig)
+            dfs(r-1,c,orig)
+            dfs(r,c+1,orig)
+            dfs(r,c-1,orig)
+        dfs(sr,sc,orig)
+        return image            
+        
+        
+        # orig = image[sr][sc]
+        # if orig==color:
+        #     return image
+        # m,n=len(image),len(image[0])
+
+        # dirs=[1,0,-1,0,1]
+        # def dfs(r,c,orig):
+        #     if not (0<=r<m) or not (0<=c<n) or image[r][c] !=orig:
+        #         return 
+        #     image[r][c]=color
+        #     for d in range(4):
+        #         dfs(r+dirs[d],c+dirs[d+1],orig)
+        # dfs(sr,sc,image[sr][sc])
+        # return image                
+        #dfs
+        # orig=image[sr][sc]
+        # if orig ==color:
+        #     return image
+        # m,n=len(image),len(image[0])
+        # dirs=[1,0,-1,0,1]
+        # def dfs(r,c,orig):
+        #     if not (0<=r<m) or not (0<=c<n ) or  image[r][c] !=orig:
+        #         return
+        #     image[r][c] = color
+        #     for d in range(4):
+        #         dfs(r+dirs[d],c+dirs[d+1],orig)
+        # dfs(sr,sc,image[sr][sc])
+        # return image                
         #bfs
         # orig = image[sr][sc]
         # if orig ==color:

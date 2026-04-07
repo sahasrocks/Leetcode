@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sahasrocks/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sahasrocks/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sahasrocks/Leetcode/tree/master/0767-reorganize-string) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/sahasrocks/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/sahasrocks/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sahasrocks/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sahasrocks/Leetcode/tree/master/0767-reorganize-string) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/sahasrocks/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sahasrocks/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/sahasrocks/Leetcode/tree/master/0767-reorganize-string) |
 | [0883-car-fleet](https://github.com/sahasrocks/Leetcode/tree/master/0883-car-fleet) |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/sahasrocks/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sahasrocks/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sahasrocks/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahasrocks/Leetcode/tree/master/0739-daily-temperatures) |
@@ -1284,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sahasrocks/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sahasrocks/Leetcode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1329,6 +1334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sahasrocks/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sahasrocks/Leetcode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sahasrocks/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1529,6 +1535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/sahasrocks/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahasrocks/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [1631-path-with-minimum-effort](https://github.com/sahasrocks/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2573-find-the-string-with-lcp](https://github.com/sahasrocks/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sahasrocks/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |

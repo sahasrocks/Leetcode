@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sahasrocks/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sahasrocks/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sahasrocks/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/sahasrocks/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sahasrocks/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sahasrocks/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sahasrocks/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/sahasrocks/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/sahasrocks/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sahasrocks/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/sahasrocks/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/sahasrocks/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/sahasrocks/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sahasrocks/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
@@ -1033,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sahasrocks/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sahasrocks/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahasrocks/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sahasrocks/Leetcode/tree/master/0767-reorganize-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1080,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sahasrocks/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/sahasrocks/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sahasrocks/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sahasrocks/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/sahasrocks/Leetcode/tree/master/0743-network-delay-time) |

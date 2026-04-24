@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sahasrocks/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sahasrocks/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sahasrocks/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/sahasrocks/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sahasrocks/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sahasrocks/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sahasrocks/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1060,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/sahasrocks/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/sahasrocks/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sahasrocks/Leetcode/tree/master/0767-reorganize-string) |
+| [2833-furthest-point-from-origin](https://github.com/sahasrocks/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/sahasrocks/Leetcode/tree/master/3583-count-special-triplets) |

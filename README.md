@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sahasrocks/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sahasrocks/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/sahasrocks/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1173,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sahasrocks/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahasrocks/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1333,6 +1335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sahasrocks/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sahasrocks/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1379,6 +1382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/sahasrocks/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sahasrocks/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sahasrocks/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahasrocks/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sahasrocks/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1571,6 +1575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sahasrocks/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sahasrocks/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/sahasrocks/Leetcode/tree/master/0721-accounts-merge) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/sahasrocks/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sahasrocks/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sahasrocks/Leetcode/tree/master/2573-find-the-string-with-lcp) |

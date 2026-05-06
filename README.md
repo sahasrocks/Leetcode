@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sahasrocks/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sahasrocks/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahasrocks/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/sahasrocks/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahasrocks/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sahasrocks/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sahasrocks/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/sahasrocks/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/sahasrocks/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/sahasrocks/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahasrocks/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sahasrocks/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1194,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahasrocks/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sahasrocks/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/sahasrocks/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sahasrocks/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sahasrocks/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/sahasrocks/Leetcode/tree/master/1895-largest-magic-square) |

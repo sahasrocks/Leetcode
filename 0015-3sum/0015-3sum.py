@@ -7,20 +7,47 @@ class Solution:
                 break
             if i>0 and e==nums[i-1]:
                 continue
-            l,r=i+1,len(nums)-1
+            l,r=i+1,len(nums)-1        
             while l<r:
                 ts=e+nums[l]+nums[r]
-                if ts<0:
-                    l+=1
-                elif ts>0:
+                if ts>0:
                     r-=1
+                elif ts<0:
+                    l+=1
                 else:
-                    res.append((e,nums[l],nums[r]))
+                    res.append([e,nums[l],nums[r]])
                     l+=1
                     r-=1
-                    while nums[l]==nums[l-1] and l<r:
+                    while l<r and nums[l]==nums[l-1]:
                         l+=1
-        return res                                
+        return res            
+
+
+
+
+        
+        
+        # res=[]
+        # nums.sort()
+        # for i,e in enumerate(nums):
+        #     if e>0:
+        #         break
+        #     if i>0 and e==nums[i-1]:
+        #         continue
+        #     l,r=i+1,len(nums)-1
+        #     while l<r:
+        #         ts=e+nums[l]+nums[r]
+        #         if ts<0:
+        #             l+=1
+        #         elif ts>0:
+        #             r-=1
+        #         else:
+        #             res.append([e,nums[l],nums[r]])
+        #             l+=1
+        #             r-=1
+        #             while l<r and nums[l]==nums[l-1]:
+        #                 l+=1
+        # return res                                                              
         
         
         

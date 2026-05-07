@@ -1,7 +1,7 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        q=deque()
         m,n=len(grid),len(grid[0])
+        q=deque()
         fresh,time=0,0
         for r in range(m):
             for c in range(n):
@@ -10,18 +10,52 @@ class Solution:
                 if grid[r][c]==2:
                     q.append((r,c))
         dirs=[[1,0],[0,1],[-1,0],[0,-1]]
-        while fresh>0 and q:
+        while q and fresh>0:
             length=len(q)
             for i in range(length):
                 r,c=q.popleft()
                 for dr,dc in dirs:
-                    rows,cols=r+dr,c+dc
-                    if (rows in range(m) and cols in range(n) and grid[rows][cols]==1):
-                        grid[rows][cols]=2
-                        q.append((rows,cols))
+                    nr,nc = r+dr,c+dc
+                    if (0<=nr<m and 0<=nc<n and grid[nr][nc]==1):
+                        grid[nr][nc]=2
+                        q.append((nr,nc))
                         fresh-=1
             time+=1
         return time if fresh==0 else -1                
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        # q=deque()
+        # m,n=len(grid),len(grid[0])
+        # fresh,time=0,0
+        # for r in range(m):
+        #     for c in range(n):
+        #         if grid[r][c]==1:
+        #             fresh+=1
+        #         if grid[r][c]==2:
+        #             q.append((r,c))
+        # dirs=[[1,0],[0,1],[-1,0],[0,-1]]
+        # while fresh>0 and q:
+        #     length=len(q)
+        #     for i in range(length):
+        #         r,c=q.popleft()
+        #         for dr,dc in dirs:
+        #             rows,cols=r+dr,c+dc
+        #             if (rows in range(m) and cols in range(n) and grid[rows][cols]==1):
+        #                 grid[rows][cols]=2
+        #                 q.append((rows,cols))
+        #                 fresh-=1
+        #     time+=1
+        # return time if fresh==0 else -1                
         
         
         

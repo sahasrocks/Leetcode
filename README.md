@@ -516,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/sahasrocks/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahasrocks/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahasrocks/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sahasrocks/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sahasrocks/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sahasrocks/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -924,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sahasrocks/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3099-harshad-number](https://github.com/sahasrocks/Leetcode/tree/master/3099-harshad-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahasrocks/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahasrocks/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/sahasrocks/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sahasrocks/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/sahasrocks/Leetcode/tree/master/3433-count-mentions-per-user) |

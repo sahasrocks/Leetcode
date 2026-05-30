@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/sahasrocks/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sahasrocks/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/sahasrocks/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/sahasrocks/Leetcode/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sahasrocks/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sahasrocks/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2141-maximum-running-time-of-n-computers](https://github.com/sahasrocks/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sahasrocks/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sahasrocks/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3161-block-placement-queries](https://github.com/sahasrocks/Leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahasrocks/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/sahasrocks/Leetcode/tree/master/3453-separate-squares-i) |
@@ -1630,6 +1632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sahasrocks/Leetcode/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/sahasrocks/Leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/sahasrocks/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sahasrocks/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
@@ -1683,4 +1686,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sahasrocks/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/sahasrocks/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->

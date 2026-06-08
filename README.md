@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/sahasrocks/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sahasrocks/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahasrocks/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sahasrocks/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahasrocks/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahasrocks/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahasrocks/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/sahasrocks/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/sahasrocks/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahasrocks/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sahasrocks/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sahasrocks/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -1081,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/sahasrocks/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2058-concatenation-of-array](https://github.com/sahasrocks/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sahasrocks/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sahasrocks/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/sahasrocks/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sahasrocks/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sahasrocks/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |

@@ -10,15 +10,43 @@ class Solution:
                     ship+=1
                     curcap=cap
                 curcap-=w
-            return ship <=days
+            return ship<=days      
         while l<=r:
-            cap=(r+l)//2
+            cap=(l+r)//2
             if canship(cap):
                 res=min(res,cap)
                 r=cap-1
             else:
                 l=cap+1
-        return res                        
+        return res                  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        # l=max(weights)
+        # r=sum(weights)
+        # res=r
+        # def canship(cap):
+        #     ship,curcap=1,cap
+        #     for w in weights:
+        #         if curcap-w<0:
+        #             ship+=1
+        #             curcap=cap
+        #         curcap-=w
+        #     return ship <=days
+        # while l<=r:
+        #     cap=(r+l)//2
+        #     if canship(cap):
+        #         res=min(res,cap)
+        #         r=cap-1
+        #     else:
+        #         l=cap+1
+        # return res                        
         
         
         # l=max(weights)

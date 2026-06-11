@@ -5,15 +5,25 @@ class Solution:
         res=r
         while l<=r:
             m=(l+r)//2
-            hours=0
+            hour=0
             for p in piles:
-                hours+=math.ceil(p/m)
-            if hours<=h:
+                hour+=math.ceil(p/m)
+            if hour<=h:
                 res=min(res,m)
                 r=m-1
             else:
                 l=m+1
-        return res            
+        return res                
+
+
+
+
+
+
+
+
+
+
 
         
         # l=1

@@ -8,7 +8,8 @@ class Solution:
             elif m<len(nums)-1 and nums[m]<nums[m+1]:
                 l=m+1
             else:
-                return m        
+                return m
+                          
         
         
         

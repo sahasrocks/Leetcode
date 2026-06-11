@@ -1,25 +1,49 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
-        l=self.bs(nums,target,True)
-        r=self.bs(nums,target,False)
-        return [l,r]
-
-    def bs(self,nums,target,leftbias):
+    def bs(self,nums,target,leftBias):
         l,r=0,len(nums)-1
         i=-1
         while l<=r:
             m=(l+r)//2
-            if target>nums[m]:
+            if nums[m]<target:
                 l=m+1
-            elif target<nums[m]:
+            elif nums[m]>target:
                 r=m-1
             else:
                 i=m
-                if leftbias:
+                if leftBias:
                     r=m-1
                 else:
                     l=m+1
         return i                        
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        l=self.bs(nums,target,True)
+        r=self.bs(nums,target,False)
+        return [l,r]
+    
+    
+    
+    
+    
+    #     l=self.bs(nums,target,True)
+    #     r=self.bs(nums,target,False)
+    #     return [l,r]
+
+    # def bs(self,nums,target,leftbias):
+    #     l,r=0,len(nums)-1
+    #     i=-1
+    #     while l<=r:
+    #         m=(l+r)//2
+    #         if target>nums[m]:
+    #             l=m+1
+    #         elif target<nums[m]:
+    #             r=m-1
+    #         else:
+    #             i=m
+    #             if leftbias:
+    #                 r=m-1
+    #             else:
+    #                 l=m+1
+    #     return i                        
         
         # l,r=0,len(nums)-1
         # i=-1

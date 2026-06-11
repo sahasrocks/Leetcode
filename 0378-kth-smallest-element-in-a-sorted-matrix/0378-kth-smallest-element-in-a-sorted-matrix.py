@@ -3,11 +3,25 @@ class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
         heap=[]
         for r in matrix:
-            for num in r:
-                heapq.heappush(heap,-num)
+            for n in r:
+                heapq.heappush(heap,-n)
                 if len(heap)>k:
                     heapq.heappop(heap)
-        return -heap[0]            
+        return -heap[0]        
+        
+        
+        
+        
+        
+        
+        
+        # heap=[]
+        # for r in matrix:
+        #     for num in r:
+        #         heapq.heappush(heap,-num)
+        #         if len(heap)>k:
+        #             heapq.heappop(heap)
+        # return -heap[0]            
         
         
         # if not matrix or not matrix[0]:

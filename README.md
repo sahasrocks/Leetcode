@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sahasrocks/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahasrocks/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sahasrocks/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahasrocks/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahasrocks/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sahasrocks/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sahasrocks/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sahasrocks/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sahasrocks/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sahasrocks/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahasrocks/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sahasrocks/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sahasrocks/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sahasrocks/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1197,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/sahasrocks/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2998-count-symmetric-integers](https://github.com/sahasrocks/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sahasrocks/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sahasrocks/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sahasrocks/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sahasrocks/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sahasrocks/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |

@@ -578,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sahasrocks/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sahasrocks/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sahasrocks/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/sahasrocks/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sahasrocks/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/sahasrocks/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sahasrocks/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sahasrocks/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sahasrocks/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3827-implement-router](https://github.com/sahasrocks/Leetcode/tree/master/3827-implement-router) |
 ## Greedy
@@ -820,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sahasrocks/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/sahasrocks/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sahasrocks/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/sahasrocks/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sahasrocks/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/sahasrocks/Leetcode/tree/master/3660-jump-game-ix) |
@@ -1264,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sahasrocks/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sahasrocks/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sahasrocks/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sahasrocks/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/sahasrocks/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -1614,6 +1618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sahasrocks/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sahasrocks/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sahasrocks/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sahasrocks/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
@@ -1622,6 +1627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sahasrocks/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sahasrocks/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/sahasrocks/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bitmask
 |  |
 | ------- |
@@ -1754,6 +1760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sahasrocks/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sahasrocks/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sahasrocks/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/sahasrocks/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sahasrocks/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## String Matching
 |  |

@@ -1001,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-maximum-subarray-with-equal-products](https://github.com/sahasrocks/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahasrocks/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sahasrocks/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sahasrocks/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sahasrocks/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sahasrocks/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sahasrocks/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |

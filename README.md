@@ -557,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahasrocks/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sahasrocks/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sahasrocks/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahasrocks/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sahasrocks/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sahasrocks/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sahasrocks/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -833,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sahasrocks/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sahasrocks/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sahasrocks/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahasrocks/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sahasrocks/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahasrocks/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sahasrocks/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -999,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahasrocks/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sahasrocks/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/sahasrocks/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahasrocks/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sahasrocks/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/sahasrocks/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sahasrocks/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1255,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahasrocks/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sahasrocks/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahasrocks/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/sahasrocks/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |

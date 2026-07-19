@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sahasrocks/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sahasrocks/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-time-based-key-value-store](https://github.com/sahasrocks/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahasrocks/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/sahasrocks/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sahasrocks/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/sahasrocks/Leetcode/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sahasrocks/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/sahasrocks/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahasrocks/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/sahasrocks/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/sahasrocks/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1612-avoid-flood-in-the-city](https://github.com/sahasrocks/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -914,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sahasrocks/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sahasrocks/Leetcode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/sahasrocks/Leetcode/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahasrocks/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahasrocks/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sahasrocks/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -1711,6 +1714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sahasrocks/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sahasrocks/Leetcode/tree/master/0883-car-fleet) |
 | [0901-online-stock-span](https://github.com/sahasrocks/Leetcode/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahasrocks/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sahasrocks/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Doubly-Linked List

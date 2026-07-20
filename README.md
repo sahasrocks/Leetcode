@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahasrocks/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/sahasrocks/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahasrocks/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1260-shift-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sahasrocks/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/sahasrocks/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sahasrocks/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1164,6 +1165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/sahasrocks/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/sahasrocks/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/sahasrocks/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sahasrocks/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sahasrocks/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/sahasrocks/Leetcode/tree/master/1642-water-bottles) |
@@ -1353,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/sahasrocks/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/sahasrocks/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/sahasrocks/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sahasrocks/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahasrocks/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

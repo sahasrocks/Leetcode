@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/sahasrocks/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/sahasrocks/Leetcode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sahasrocks/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/sahasrocks/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sahasrocks/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/sahasrocks/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sahasrocks/Leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/sahasrocks/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sahasrocks/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahasrocks/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sahasrocks/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1011,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/sahasrocks/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sahasrocks/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/sahasrocks/Leetcode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/sahasrocks/Leetcode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahasrocks/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahasrocks/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1890,4 +1893,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sahasrocks/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sahasrocks/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/sahasrocks/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sahasrocks/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/sahasrocks/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sahasrocks/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahasrocks/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sahasrocks/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sahasrocks/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/sahasrocks/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sahasrocks/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahasrocks/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sahasrocks/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sahasrocks/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sahasrocks/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sahasrocks/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -1384,6 +1386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/sahasrocks/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sahasrocks/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sahasrocks/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sahasrocks/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sahasrocks/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1841,6 +1844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sahasrocks/Leetcode/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sahasrocks/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/sahasrocks/Leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/sahasrocks/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sahasrocks/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |

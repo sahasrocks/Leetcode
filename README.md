@@ -669,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sahasrocks/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sahasrocks/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahasrocks/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sahasrocks/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1123,6 +1124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3783-mirror-distance-of-an-integer](https://github.com/sahasrocks/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sahasrocks/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahasrocks/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sahasrocks/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
